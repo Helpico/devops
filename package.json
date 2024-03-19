@@ -1,0 +1,32 @@
+{
+  "name": "vivus",
+  "version": "1.0.0",
+  "description": "Build, Ship, Run",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Helpico/devops.git#week_01"
+  },
+  "keywords": [
+    "devops",
+    "Kubernetes",
+    "task",
+    "one",
+    "svg",
+    "build",
+    "ship",
+    "run"
+  ],
+  "author": "Maksym Dudyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Helpico/devops/issues"
+  },
+  "homepage": "https://github.com/Helpico/devops/tree/week_01#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
